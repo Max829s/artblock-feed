@@ -1,0 +1,59 @@
+[
+  {
+    "id": "post_001",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820601/samples/animals/reindeer.jpg",
+    "width": 1080,
+    "height": 1620,
+    "createdAt": 1706000000000
+  },
+  {
+    "id": "post_002",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820599/samples/animals/cat.jpg",
+    "width": 1080,
+    "height": 1080,
+    "createdAt": 1706100000000
+  },
+  {
+    "id": "post_003",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820603/samples/animals/three-dogs.jpg",
+    "width": 1080,
+    "height": 1920,
+    "createdAt": 1706200000000
+  },
+  {
+    "id": "post_004",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820605/samples/ecommerce/accessories-bag.jpg",
+    "width": 1350,
+    "height": 1080,
+    "createdAt": 1706300000000
+  },
+  {
+    "id": "post_005",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820619/cld-sample-2.jpg",
+    "width": 1080,
+    "height": 1350,
+    "createdAt": 1706400000000
+  },
+  {
+    "id": "post_006",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820620/cld-sample-5.jpg",
+    "width": 1080,
+    "height": 1350,
+    "createdAt": 1706500000000
+  },
+  {
+    "id": "post_007",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820602/samples/ecommerce/shoes.png",
+    "width": 1080,
+    "height": 1350,
+    "createdAt": 1706600000000
+  },
+  {
+    "id": "post_008",
+    "imageUrl": "https://res.cloudinary.com/dfnylqyvu/image/upload/v1769820599/samples/ecommerce/analog-classic.jpg",
+    "width": 1080,
+    "height": 1350,
+    "createdAt": 1706700000000
+  }
+]
+
